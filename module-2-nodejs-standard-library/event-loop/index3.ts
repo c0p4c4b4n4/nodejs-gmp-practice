@@ -13,3 +13,9 @@ process.nextTick(() => {
 });
 
 console.log('End');
+
+// Start
+// End
+// Next Tick
+// Promise
+// Timeout

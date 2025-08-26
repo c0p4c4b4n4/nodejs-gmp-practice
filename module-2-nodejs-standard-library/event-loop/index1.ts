@@ -9,3 +9,8 @@ setImmediate(() => {
 });
 
 console.log('End');
+
+// Start
+// End
+// Timeout with 0ms
+// Immediate

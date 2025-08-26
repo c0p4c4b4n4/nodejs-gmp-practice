@@ -9,3 +9,8 @@ Promise.resolve().then(() => {
 });
 
 console.log('End');
+
+// Start
+// End
+// Promise
+// Timeout

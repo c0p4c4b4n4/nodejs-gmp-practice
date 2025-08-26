@@ -22,3 +22,11 @@ setTimeout(() => {
 }, 0);
 
 console.log('End');
+
+// Start
+// Inside Promise Constructor
+// End
+// Promise Resolved
+// Inside setTimeout
+// Inside Promise in setTimeout
+// Timeout Promise Resolved
